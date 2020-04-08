@@ -1,3 +1,5 @@
+// assignment : if we use same condition 2 times. which will be executed ?
+
 let days = 1;
 let message = undefined;
 
